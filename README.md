@@ -23,7 +23,7 @@ I am always eager to get feedback of any kind. Feel free to share your thoughts 
 - "You learn nothing from life if you think you are right all the time." - Unknown
 
 ## My beloved auto hotkey script
-
+```
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
@@ -166,3 +166,4 @@ return
 !^Up::
 Send {Media_Play_Pause}
 return
+```
