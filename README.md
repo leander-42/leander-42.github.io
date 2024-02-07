@@ -18,7 +18,6 @@ I am always eager to get feedback of any kind. Feel free to share your thoughts 
 
 ## Quotes I agree with
 - "The real problem of humanity is the following: we have paleolithic emotions, medieval institutions, and god-like technology." - Edward Osborne Wilson
-- "It has been said that man is a rational animal. All my life I have been searching for evidence which could support this." - Bertrand Russell
 - "It's no measure of health to be well adjusted to a profoundly sick society." - Jiddu Krishnamurti
 - "You learn nothing from life if you think you are right all the time." - Unknown
 
