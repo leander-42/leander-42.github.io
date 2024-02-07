@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Page</title>
+</head>
+<body>
+    <h1>HI!</h1>
+    <p>Thanks for visiting.</p>
+    <p>Autohotkey script:</p>
+    <p>
+        <pre>
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+
+
+
+;navigation, del, backspace
+;the following lets you:
+; -navigate with Alt + I,J,K,L
+; -delete with Alt + O (whole word if you add Ctrl)
+; -backspace with Alt + U (whole word if you add Ctrl)
+
+!j::
+Send {Left}
+return
+
+!l::
+Send {Right}
+return
+
+!i::SendPlay {up}
+return
+
+!k::
+SendPlay {Down}
+return
+
+!u::
+Send {BS}
+return
+
+!o::
+Send {Del}
+return
+
+!^u::
+Send, ^{BS}
+return
+
+!^o::
+SendPlay ^{Del} ;overrides the windows outline view shortcut
+return
+
+
+
+; the following lets you
+; -navigation one word with Alt + Ctrl + J,L
+; -jump 5 lines with Alt + Ctrl + I,K
+; -jump to the end/start of the line with: Alt + H,ö
+
+!^j::
+Send ^{Left}
+return
+
+!^l::
+Send ^{Right}
+return
+
+;navigation down/up 5 lines at a time
+!^i::
+Send {up 5}
+return
+
+!^k::
+Send {down 5}
+return
+
+!ö::
+Send {End}
+return
+
+!h::
+Send {Home}
+return
+
+
+;the following lets you
+; -mark words (right/left) with Alt + Shift + J,L
+; -mark text up/down (also usable to mark whole line): Alt + Shift + I,K
+; -mark whole text to start/end: Alt + Shift + H,ö
+; -alternative escape: Alt + N
+
+;mark text to the right
+!+l::
+Send ^+{Right}
+return
+
+;mark text to the left (with Alt + Shift + J) (default would be Ctrl+Shift+direction)
+!+j::
+Send ^+{Left}
+return
+
+;mark text up
+!+i::
+Send ^+{up}
+return
+
+;mark text down
+!+k::
+Send ^+{down}
+return
+
+;mark text to the end
+!+ö::
+SendPlay ^+{End}
+return
+
+;mark text to home
+!+h::
+Send ^+{Home}
+return
+
+
+;alternative escape: Alt+N
+!n::
+Send {Esc}
+return
+
+
+
+;moving the windows, works nice with PowerToys FancyZones
+; -move windows left/right/down/up with win+I,J,K,L
+<#j:: SendInput,#{LEFT}
+<#l:: SendInput,#{RIGHT}
+<#i:: SendInput,#{UP}
+<#k:: SendInput,#{DOWN}
+
+
+
+;music player shortcuts
+
+;next song
+!^Right:: 
+Send {Media_Next}
+return
+
+;previous song
+!^Left::
+Send {Media_Prev}
+return
+
+;play/pause
+!^Up::
+Send {Media_Play_Pause}
+return
+
+
+
+</pre>
+        
+    </p>
+
+
+
+    
+</body>
+</html>
