@@ -21,7 +21,7 @@ I am always eager to get feedback of any kind. Feel free to share your thoughts 
 - "It's no measure of health to be well adjusted to a profoundly sick society." - Jiddu Krishnamurti
 - "You learn nothing from life if you think you are right all the time." - Unknown
 
-## My beloved auto hotkey script
+## My beloved AutoHotkey script
 For windows.  
 - Edit text and code **without lifting your hand** to the arrow keys or the mouse
 - Move windows across screens
