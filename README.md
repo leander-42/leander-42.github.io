@@ -1,14 +1,16 @@
 # Welcome
 
-My name is Leander Rankwiler. I'm a Master's student in data science at BFH in Bern, Switzerland. Currently, I am dedicating my efforts to writing my master thesis titled **"Evaluating Bias in German Word Embeddings"**. This work is conducted under the supervision of [Prof. Dr. Mascha Kurpicz-Briki](https://www.bfh.ch/de/ueber-die-bfh/personen/diqa4uibb7gl/).
+My name is Leander Rankwiler. I'm a Master's student in data science at BFH in Bern, Switzerland. Currently, I am dedicating my efforts to writing my master thesis titled **"Evaluating Bias in German and Dutch NLP Models"**. This work is conducted under the supervision of [Prof. Dr. Mascha Kurpicz-Briki](https://www.bfh.ch/de/ueber-die-bfh/personen/diqa4uibb7gl/).
 
-This thesis is part of the broader [European Research Project on Biases in AI](https://www.biasproject.eu/), which aims to uncover and mitigate the inherent biases that exist within current language models.
+This thesis is part of the broader [European Research Project on Biases in AI](https://www.biasproject.eu/), which aims to uncover and mitigate the inherent biases that exist within current language models. A part of my thesis was accepted at SwissText2024, see preprint [here](https://www.swisstext.org/programme/). The code is published on [github](https://github.com/BFH-AMI/BIAS) and a meta description of the code can be found on [arxiv](https://arxiv.org/abs/2407.18689).
 
 I will graduate in Summer 2024 and am looking for opportunities starting Fall 2024.
 
+[![Google Scholar](https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg)]([https://scholar.google.com](https://scholar.google.com/citations?user=8ixNAFkAAAAJ&hl=de&oi=ao))
+
+
 ## Email Me
-[lastname@gmail.com](mailto:lastname@gmail.com)
-Replace "lastname" with my actual last name to email me.
+My last name at gmail
 
 ## Work With Me
 Let's connect on [Focusmate](https://www.focusmate.com/i/8fGk3BDo9x).
@@ -17,9 +19,8 @@ Let's connect on [Focusmate](https://www.focusmate.com/i/8fGk3BDo9x).
 I am always eager to get feedback of any kind. Feel free to share your thoughts through this [anonymous feedback form](https://docs.google.com/forms/d/e/1FAIpQLSc5kHGNz3s1VpJfUNnJ5CHcFFq6nr33OubTdO8i8GY-7YBnnA/viewform?usp=sf_link).
 
 ## Quotes I agree with
-- "The real problem of humanity is the following: we have paleolithic emotions, medieval institutions, and god-like technology." - Edward Osborne Wilson
-- "It's no measure of health to be well adjusted to a profoundly sick society." - Jiddu Krishnamurti
 - "You learn nothing from life if you think you are right all the time." - Unknown
+- "The real problem of humanity is the following: we have paleolithic emotions, medieval institutions, and god-like technology." - Edward Osborne Wilson
 
 ## My beloved AutoHotkey script
 For windows.  
