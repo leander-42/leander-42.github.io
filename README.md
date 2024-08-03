@@ -6,7 +6,7 @@ This thesis is part of the broader [European Research Project on Biases in AI](h
 
 I will graduate in Summer 2024 and am looking for opportunities starting Fall 2024.
 
-[![Google Scholar](https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg)]([https://scholar.google.com](https://scholar.google.com/citations?user=8ixNAFkAAAAJ&hl=de&oi=ao))
+[![Google Scholar]([https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg))]([https://scholar.google.com](https://scholar.google.com/citations?user=8ixNAFkAAAAJ&hl=de&oi=ao))
 
 
 ## Email Me
