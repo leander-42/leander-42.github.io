@@ -2,7 +2,7 @@
 
 My name is Leander Rankwiler. I'm a Master's student in data science at BFH in Bern, Switzerland. Currently, I am dedicating my efforts to writing my master thesis titled **"Evaluating Bias in German and Dutch NLP Models"**. This work is conducted under the supervision of [Prof. Dr. Mascha Kurpicz-Briki](https://www.bfh.ch/de/ueber-die-bfh/personen/diqa4uibb7gl/).
 
-This thesis is part of the broader [European Research Project on Biases in AI](https://www.biasproject.eu/), which aims to uncover and mitigate the inherent biases that exist within current language models. A part of my thesis was accepted at SwissText2024, see preprint [here](https://www.swisstext.org/programme/). The code is published on [github](https://github.com/BFH-AMI/BIAS) and a meta description of the code can be found on [arxiv](https://arxiv.org/abs/2407.18689).
+The thesis is part of the broader [European Research Project on Biases in AI](https://www.biasproject.eu/), which aims to uncover and mitigate the inherent biases that exist within current language models. A part of my thesis was accepted at SwissText2024, see preprint [here](https://www.swisstext.org/programme/). The code is published on [github](https://github.com/BFH-AMI/BIAS) and a meta description of the code can be found on [arxiv](https://arxiv.org/abs/2407.18689).
 
 I will graduate in Summer 2024 and am looking for opportunities starting Fall 2024.
 
