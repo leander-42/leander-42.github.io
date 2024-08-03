@@ -6,13 +6,9 @@ This thesis is part of the broader [European Research Project on Biases in AI](h
 
 I will graduate in Summer 2024 and am looking for opportunities starting Fall 2024.
 
-![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg)
-
 [google scholar](https://scholar.google.com](https://scholar.google.com/citations?user=8ixNAFkAAAAJ&hl=de&oi=ao)
-
-
-## Email Me
-My last name at gmail
+[Linkedin](https://www.linkedin.com/in/leander-rankwiler-4a0a2a89) 
+email: My last name at gmail
 
 ## Work With Me
 Let's connect on [Focusmate](https://www.focusmate.com/i/8fGk3BDo9x).
