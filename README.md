@@ -1,6 +1,6 @@
 # Welcome
 
-My name is Leander Rankwiler. I am a full-time ML enthusiaist and currently, also a part-time paragliding tandem master. I graduated with the MSc data science at the BFH in Bern, Switzerland. My thesis is titled  **"Evaluating Bias in German and Dutch NLP Models"**. This work was conducted under the supervision of [Prof. Dr. Mascha Kurpicz-Briki](https://www.bfh.ch/de/ueber-die-bfh/personen/diqa4uibb7gl/).
+My name is Leander Rankwiler. I am a machine learning enthusiast and currently a part-time tandem paragliding pilot. I hold a Master's degree in Data Science from BFH in Bern, Switzerland, where I completed my thesis titled:  **"Evaluating Bias in German and Dutch NLP Models"**. This work was conducted under the supervision of [Prof. Dr. Mascha Kurpicz-Briki](https://www.bfh.ch/de/ueber-die-bfh/personen/diqa4uibb7gl/).
 
 The thesis is part of the broader [European Research Project on Biases in AI](https://www.biasproject.eu/), which aims to uncover and mitigate the inherent biases that exist within current language models. A part of my thesis was accepted at SwissText2024, see preprint [here](https://www.swisstext.org/programme/). The code is published on [github](https://github.com/BFH-AMI/BIAS) and a meta description of the code can be found on [arxiv](https://arxiv.org/abs/2407.18689).
 
