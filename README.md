@@ -1,6 +1,6 @@
 # Welcome
 
-My name is Leander Rankwiler. I am a machine learning enthusiast and currently a part-time tandem paragliding pilot. I hold a Master's degree in Data Science from BFH in Bern, Switzerland, where I completed my thesis titled:  **"Evaluating Bias in German and Dutch NLP Models"**. This work was conducted under the supervision of [Prof. Dr. Mascha Kurpicz-Briki](https://www.bfh.ch/de/ueber-die-bfh/personen/diqa4uibb7gl/).
+My name is Leander Rankwiler. I work as scientific collaborator at the Institute for Public Sector Transformation in Bern. I hold a Master's degree in Data Science from BFH in Bern, Switzerland, where I completed my thesis titled:  **"Evaluating Bias in German and Dutch NLP Models"**. This work was conducted under the supervision of [Prof. Dr. Mascha Kurpicz-Briki](https://www.bfh.ch/de/ueber-die-bfh/personen/diqa4uibb7gl/). 
 
 The thesis is part of the broader [European Research Project on Biases in AI](https://www.biasproject.eu/), which aims to uncover and mitigate the inherent biases that exist within current language models. The resulting paper can be found [here](https://aclanthology.org/2024.swisstext-1.11.pdf). The code is published on [github](https://github.com/BFH-AMI/BIAS) and a meta description of the code can be found on [arxiv](https://arxiv.org/abs/2407.18689).
 
@@ -18,6 +18,78 @@ I am always eager to get feedback of any kind. Feel free to share your thoughts 
 - "You learn nothing from life if you think you are right all the time." - Unknown
 - "The real problem of humanity is the following: we have paleolithic emotions, medieval institutions, and god-like technology." - Edward Osborne Wilson
 - "Next time is next time. Now is now." - from Perfect Days (Wim Wenders)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Did you really scroll that far down? 
 
 ## My beloved AutoHotkey script
 For windows.  
