@@ -2,7 +2,7 @@
 
 My name is Leander Rankwiler. I work as scientific collaborator at the Institute for Public Sector Transformation in Bern. I hold a Master's degree in Data Science from BFH in Bern, Switzerland, where I completed my thesis titled:  **"Evaluating Bias in German and Dutch NLP Models"**. This work was conducted under the supervision of [Prof. Dr. Mascha Kurpicz-Briki](https://www.bfh.ch/de/ueber-die-bfh/personen/diqa4uibb7gl/). 
 
-The thesis is part of the broader [European Research Project on Biases in AI](https://www.biasproject.eu/), which aims to uncover and mitigate the inherent biases that exist within current language models. The resulting paper can be found [here](https://aclanthology.org/2024.swisstext-1.11.pdf). The code is published on [github](https://github.com/BFH-AMI/BIAS) and a meta description of the code can be found on [arxiv](https://arxiv.org/abs/2407.18689).
+The thesis is part of the broader [European Research Project on Biases in AI](https://www.biasproject.eu/), which aims to uncover and mitigate the inherent biases that exist within current language models. The resulting paper can be found on [aclanthology](https://aclanthology.org/2024.swisstext-1.11/). The code is published on [github](https://github.com/BFH-AMI/BIAS) and a meta description of the code can be found on [arxiv](https://arxiv.org/abs/2407.18689).
 
 [Google scholar](https://scholar.google.com/citations?user=8ixNAFkAAAAJ&hl=de&oi=ao)  
 [Linkedin](https://www.linkedin.com/in/leander-rankwiler-4a0a2a89)  
