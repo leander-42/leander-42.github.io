@@ -15,8 +15,9 @@ Let's connect on [Focusmate](https://www.focusmate.com/i/8fGk3BDo9x).
 I am always eager to get feedback of any kind. Feel free to share your thoughts through this [anonymous feedback form](https://docs.google.com/forms/d/e/1FAIpQLSc5kHGNz3s1VpJfUNnJ5CHcFFq6nr33OubTdO8i8GY-7YBnnA/viewform?usp=sf_link).
 
 ## Quotes that I like
-- "You learn nothing from life if you think you are right all the time." - Unknown
+- "Everyone has a plan until they get punched in the mouth" - Mike Tyson
 - "The real problem of humanity is the following: we have paleolithic emotions, medieval institutions, and god-like technology." - Edward Osborne Wilson
+- "You learn nothing from life if you think you are right all the time." - Unknown
 - "Next time is next time. Now is now." - from Perfect Days (Wim Wenders)
 
 
