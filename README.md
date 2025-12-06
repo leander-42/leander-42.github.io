@@ -22,6 +22,7 @@ I am always eager to get feedback of any kind. Feel free to share your thoughts 
 
 
 ## My beloved AutoHotkey script
+[My AutoHotkey Script](autohotkey.html)
 For windows. Soon I will have a version for Mac ;)
 - Edit text and code **without lifting your hand** to the arrow keys or the mouse
 - Move windows across screens
